@@ -1,0 +1,56 @@
+.madal-wrapper{
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0;
+    bottom: 0;
+    z-index: 10;
+}
+
+.modal-backdrop {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    right: 0;
+    bottom: 0;
+    z-index: 100;
+    opacity: 0;
+    animation: fadeIn 300ms linear;
+    animation-fill-mode: forwards;
+    background: linear-gradient(to bottom left, #333 0%, rgb(214, 118, 7) 100%);
+}
+
+.modal-box{
+    opacity: 0;
+    animation: middleAni 300ms linear;
+    animation-fill-mode: forwards;
+    position: relative;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    min-height: 45%;
+    width: 60%;
+    max-width: 650px;
+    min-width: 475px;
+    background: whitesmoke;
+    box-shadow: 0 0 15px rgba(24, 24, 24, 0.25);
+    border-radius: 0.15rem;
+    z-index: 101;
+}
+
+.modal-open {
+    overflow:hidden;
+}
+
+@keyframes fadeIn {
+    100% {
+        opacity: 0.85;
+    }
+}
+
+@keyframes middleAni {
+    100% {
+        opacity: 1;
+        transform: translate(-50%, -50%)
+    }
+}

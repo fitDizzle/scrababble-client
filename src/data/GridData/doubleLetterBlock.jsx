@@ -1,0 +1,28 @@
+export const DoubleLetterBlocks = [
+  { x: 1, y: 4, color: "light-blue", value: [2, "letter"] },
+  { x: 1, y: 12, color: "light-blue", value: [2, "letter"] },
+  { x: 3, y: 9, color: "light-blue", value: [2, "letter"] },
+  { x: 3, y: 15, color: "light-blue", value: [2, "letter"] },
+  { x: 4, y: 1, color: "light-blue", value: [2, "letter"] },
+  { x: 4, y: 8, color: "light-blue", value: [2, "letter"] },
+  { x: 7, y: 3, color: "light-blue", value: [2, "letter"] },
+  { x: 7, y: 7, color: "light-blue", value: [2, "letter"] },
+  { x: 7, y: 9, color: "light-blue", value: [2, "letter"] },
+  { x: 7, y: 13, color: "light-blue", value: [2, "letter"] },
+  { x: 8, y: 4, color: "light-blue", value: [2, "letter"] },
+  { x: 8, y: 12, color: "light-blue", value: [2, "letter"] },
+  { x: 9, y: 3, color: "light-blue", value: [2, "letter"] },
+  { x: 9, y: 7, color: "light-blue", value: [2, "letter"] },
+  { x: 9, y: 9, color: "light-blue", value: [2, "letter"] },
+  { x: 9, y: 13, color: "light-blue", value: [2, "letter"] },
+  { x: 12, y: 8, color: "light-blue", value: [2, "letter"] },
+  { x: 12, y: 1, color: "light-blue", value: [2, "letter"] },
+  { x: 11, y: 15, color: "light-blue", value: [2, "letter"] },
+  { x: 13, y: 7, color: "light-blue", value: [2, "letter"] },
+  { x: 13, y: 9, color: "light-blue", value: [2, "letter"] },
+  { x: 15, y: 4, color: "light-blue", value: [2, "letter"] },
+  { x: 15, y: 12, color: "light-blue", value: [2, "letter"] },
+  { x: 3, y: 7, color: "light-blue", value: [2, "letter"] },
+];
+
+export default DoubleLetterBlocks;
