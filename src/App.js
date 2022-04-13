@@ -63,9 +63,9 @@ function App() {
 
   useEffect(() => {
     const token = JSON.parse(localStorage.getItem("token"));
-    if (state.auth.token !== token) {
-      dispatch(authRefreshAction(token));
-    }
+    // if (state.auth.token !== token) {
+    //   dispatch(authRefreshAction(token));
+    // }
   }, []);
 
   return (

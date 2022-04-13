@@ -125,13 +125,6 @@ const RegisterButton = styled.a`
   }
 `;
 
-let keys = [];
-
-function re(e) {
-  keys.push(e.key);
-  console.log(keys);
-}
-
 const Home = (props) => {
   const history = useHistory();
   return (

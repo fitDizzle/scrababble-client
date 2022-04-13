@@ -11,7 +11,7 @@ import { FaIdCard, FaHome, FaSignOutAlt, FaSignInAlt } from "react-icons/fa";
 
 const NavigationMenu = () => {
   const history = useHistory();
-  const authorization = useSelector((state) => state.auth);
+  const authorization = useSelector((state) => state.auth) || '';
 
   const logout = async () => {
     localStorage.removeItem("token");
