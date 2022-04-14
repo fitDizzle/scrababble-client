@@ -1,6 +1,6 @@
 import axios from "axios";
 
-const baseUrl = "http://localhost:9000";
+const baseUrl = "https://scrababble-word-server.herokuapp.com/";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
