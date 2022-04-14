@@ -1,7 +1,7 @@
 import axios from "axios"
 
 const baseUrl = "http://localhost:8000"
-const herokuDB = "postgres://rgsfmkdctjvykl:af3b2530cd791b741a38e290e0"
+const herokuDB = "https://scrababble-game-server.herokuapp.com"
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
