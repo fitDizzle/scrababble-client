@@ -1,8 +1,8 @@
 import axios from "axios";
 
 
-const baseURL = "https://scrababble-game-server.herokuapp.com/"
-const secondaryURL = "https://scrababble-word-server.herokuapp.com/";
+const baseURL = "https://scrababble-game-server.herokuapp.com"
+const secondaryURL = "https://scrababble-word-server.herokuapp.com";
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default {
