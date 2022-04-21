@@ -41,6 +41,7 @@ export const StyledHomePageHeadLine = styled.h2`
   color: #464646;
   font-family: Arial, Helvetica, sans-serif;
   margin-bottom: 0;
+  padding-bottom: 20px;
 `;
 
 export const StyledPlayNowButton = styled.button`

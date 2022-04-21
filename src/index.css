@@ -8,8 +8,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-position: bottom left;
   background-repeat: no-repeat;
-  background-size: 60%;
-  background-image: url(images//bg-scb.jpg);
+  background-size: 100%;
+  background-image: url(../public/images/bg-scb.jpg);
 }
 
 /* Game Play Containers */

@@ -94,6 +94,10 @@ export default function Register() {
         <div>
           <Styles.ModalContentTitle>
             Register A New Account
+
+             <h4>Test User: tester1</h4>
+          <br />
+          <h4>Test Password: asdasd</h4>
           </Styles.ModalContentTitle>
           <Styles.ModalContentContainer>
             <Styles.RegisterModalForm>
