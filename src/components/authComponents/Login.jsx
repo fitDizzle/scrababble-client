@@ -33,6 +33,9 @@ export default function Login() {
       <div style={{ display: "flex", justifyContent: "space-around" }}>
         <div>
           <Styles.ModalContentTitle>Sign in</Styles.ModalContentTitle>
+          <h4>Test User: tester1</h4>
+          <br />
+          <h4>Test Password: asdasd</h4>
           <Styles.ModalContentContainer>
             <Styles.RegisterModalForm>
               <label>Username</label>
