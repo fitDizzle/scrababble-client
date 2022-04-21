@@ -1,4 +1,5 @@
 import { all_words } from "../../data/words";
+// import { all_words } from "../../data/words";
 
 import {
   CenterBlock,
