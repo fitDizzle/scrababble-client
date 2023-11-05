@@ -9,7 +9,7 @@ body {
   background-position: bottom left;
   background-repeat: no-repeat;
   background-size: 100%;
-  background-image: url(../public/images/bg-scb.jpg);
+  /* background-image: url(../public/images/bg-scb.jpg); */
 }
 
 /* Game Play Containers */
@@ -187,5 +187,3 @@ body {
   z-index: 100;
   margin-top: 0;
 }
-
-/* BROUGHT IN STYLES FROM SCSS */

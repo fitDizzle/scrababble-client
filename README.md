@@ -1,31 +1,31 @@
-# Welcome to Scrababble
+Certainly! Here's the updated README with the addition of the feature that allows you to unlock a letter by double-clicking:
 
-## The inspiration behind the game.
+# Scrababble App
 
-This project was inspired by a moderatately simple alogrithm from Edabit.
+Welcome to the Scrababble App, your digital gateway to the classic word game Scrabble. This application offers an engaging way to test your wordplay and strategic prowess. Please read the instructions below to make the most of your Scrababble experience:
 
-### `yarn start`
+## Getting Started
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+1. **Drag and Drop Letters**: It's as simple as a drag and drop. To construct words, simply drag letters from your rack to the game board. When you release the mouse button, the letter will snugly lock in place.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+2. **Undo Your Moves**: Made an unintended error or rethinking your strategy? No problem! Click the "Rewind" button to undo your previous moves and start over.
 
-### `yarn test`
+3. **Unlock Letters**: Placed a letter on the board and want to change your mind? You can unlock it by double-clicking on it.
 
-Launches the test runner in the interactive watch mode.\
+4. **Skip Your Turn**: Not feeling inspired during your turn? You can pass by clicking the "Fast Forward" button.
 
-### `yarn build`
+5. **Submit Your Play**: Once you've arranged your letters into a word or decided to exchange some of them, confirm your move by pressing the "Play" button.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+6. **Exchange Letters**: If you wish to swap out some of your letters, drag the unwanted ones to the bag and release the mouse. Be sure to press the "Play" button to complete the exchange. Note that you can only exchange letters before submitting your play.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+7. **Challenge the AI Opponent**: After you've submitted your play, the AI opponent will craft its own wordplay to keep you on your toes.
 
-### Deployment
+## Bug Reporting
 
-To deploy and run this app on a local or cloud environment, you will need these environment variables.
+We're committed to providing you with a seamless gaming experience, but sometimes issues may arise. If you encounter any bugs, glitches, or have suggestions for improving the Scrababble App, please report them to us at [mark@idevforweb.com](mailto:mark@idevforweb.com). Your feedback is invaluable in helping us enhance the app and make it even better.
 
-You will also need to run these commands.
+## Dive into the Game
+
+Prepare for an enjoyable Scrabble experience with the Scrababble App. Sharpen your vocabulary and tactical skills as you take on the AI opponent. If you ever find yourself in need of assistance or have questions about the app's features, refer to the help section or get in touch with our support team.
+
+May the best wordsmith win, and we hope you have a fantastic time creating word masterpieces with Scrababble App!
